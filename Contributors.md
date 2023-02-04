@@ -2091,3 +2091,4 @@ Rishabh Pandey
 - [vid31] (https://github.com/vid31)
 [Reehan9] (https://github.com/Reehan9)
 - [olekca] (https://github.com/olekca)
+- [RonaldoOliveiraCosta] (https://github.com/ronaldo-oliv)
